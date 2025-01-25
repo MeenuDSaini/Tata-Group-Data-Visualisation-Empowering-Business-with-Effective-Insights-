@@ -24,7 +24,7 @@ This repository contains the work completed during the Tata Data Visualization: 
   was performing and identify growth opportunities.
 - I drafted key questions that would be relevant for both executives to ensure the data visualizations answered their business needs.
 -Here are the questions I framed:
-## As CEO is responsible for the overall success of the organization so he might be interested in these questions:
+**As CEO is responsible for the overall success of the organization so he might be interested in these questions:**
 
 **1.What are the top-performing products and least-performing products in terms of total revenue?**
 
@@ -42,7 +42,7 @@ Analysing monthly trends can reveal the seasonal patterns, festive spikes, or pr
 
 This information could be helpful to develop strategies for retaining the key customers and increasing business with others. Analyzing why customers contribute less- whether due to pricing, quality,or delivery or competitors offerings - can guide to improve overall income.
 
-## As CMO is responsible for the company's marketing strategy and execution, so they might be interested in the following questions: 
+**As CMO is responsible for the company's marketing strategy and execution, so they might be interested in the following questions:**
 
 **1.Who are the top customers that are contributing maximum to the total revenue and what patterns can we identify in their purchase behaviour? Are they repeating their orders or they are ordering the different products?** 
 
